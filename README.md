@@ -1,4 +1,4 @@
-МГУ имени М.В.Ломоносова, Факультет Вычислительной математики и Кибернетики, ВКР 2023 / Lomonosov Moscow State University, Faculty of Computational Mathematics and Cybernetics, final qualifying work 2023
+МГУ имени М.В.Ломоносова, Факультет вычислительной математики и кибернетики, ВКР 2023 / Lomonosov Moscow State University, Faculty of Computational Mathematics and Cybernetics, final qualifying work 2023
 
 **Тема:** Классификация веб-страниц на основе текстового содержимого с помощью языковой модели BERT / Classification of web pages based on text content using the BERT language model
 
